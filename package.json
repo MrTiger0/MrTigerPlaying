@@ -1,7 +1,7 @@
 {
-  "name": "MrTiger",
+  "name": "LUXXY",
   "version": "2.1.0",
-  "description": "-- MrTiger --",
+  "description": "-- LUXXY --",
   "main": "MrTiger.js",
   "scripts": {
     "start": "node MrTiger.js"
